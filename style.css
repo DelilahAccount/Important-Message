@@ -1,0 +1,22 @@
+body{
+background-image: url('https://64.media.tumblr.com/48b3e30ffc69f44305f6d83fde8a35a6/tumblr_ozdjskKiWJ1tixvyxo1_540.gifv');
+background-size: cover;
+}
+
+.text{
+  text-align:center;
+  background-color:white;
+  border-radius:15px;
+}
+
+.text2{
+  text-align:center;
+  background-color:white;
+  border-radius:15px;
+  width:200px;
+}
+
+.heart{
+  padding-bottom:1000px;
+  align:center;
+}
